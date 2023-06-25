@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\Design_Patterns_Factory_method\Factory_method\Factory_method\bin\Debug\net6.0\Factory_method.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\Design_Patterns_Factory_method\Factory_method\Factory_method\bin\Debug\net6.0\Factory_method.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\Design_Patterns_Factory_method\Factory_method\Factory_method\bin\Debug\net6.0\Factory_method.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\Design_Patterns_Factory_method\Factory_method\Factory_method\bin\Debug\net6.0\Factory_method.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\Design_Patterns_Factory_method\Factory_method\Factory_method\bin\Debug\net6.0\Factory_method.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\Design_Patterns_Factory_method\Factory_method\Factory_method\obj\Debug\net6.0\Factory_method.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\Design_Patterns_Factory_method\Factory_method\Factory_method\obj\Debug\net6.0\Factory_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\Design_Patterns_Factory_method\Factory_method\Factory_method\obj\Debug\net6.0\Factory_method.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\Design_Patterns_Factory_method\Factory_method\Factory_method\obj\Debug\net6.0\Factory_method.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\Design_Patterns_Factory_method\Factory_method\Factory_method\obj\Debug\net6.0\Factory_method.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\Design_Patterns_Factory_method\Factory_method\Factory_method\obj\Debug\net6.0\Factory_method.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\Design_Patterns_Factory_method\Factory_method\Factory_method\obj\Debug\net6.0\refint\Factory_method.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\Design_Patterns_Factory_method\Factory_method\Factory_method\obj\Debug\net6.0\Factory_method.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\Design_Patterns_Factory_method\Factory_method\Factory_method\obj\Debug\net6.0\Factory_method.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\Design_Patterns_Factory_method\Factory_method\Factory_method\obj\Debug\net6.0\ref\Factory_method.dll
